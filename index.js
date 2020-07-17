@@ -1,5 +1,5 @@
 // write your code below!
-var happyHolidays = "Happy Holidays!"
+var happyHolidays = "Happy holidays!"
 function happyHolidays(string)  {
   return happyHolidays()
 }
